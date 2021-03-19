@@ -16,7 +16,6 @@ def chooseclass():
     tmp={}
     tmp['Name'] = yourhero
     print(f"W porządku {yourhero}, jaka jest Twoja klasa?")
-
     anstrue=True
     while anstrue:
         print ("""
